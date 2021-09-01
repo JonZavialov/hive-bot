@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/SonyTV-Bryson/hive-bot/blob/main/assets/logo.png?raw=true" width="224px"/><br/>
+  <img src="https://github.com/SonyTV-Bryson/hive-bot/blob/main/assets/logo.png?raw=true" width="100px"/><br/>
 </h1>
 
 <p align="center">
