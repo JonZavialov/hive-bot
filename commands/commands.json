@@ -1,0 +1,7 @@
+{
+    "ping": {
+        "args": 0,
+        "desc": "A debugging command to see if the bot is functional.",
+        "alias": ["ping", "pi"]
+    }
+}
