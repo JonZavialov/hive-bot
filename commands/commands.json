@@ -3,5 +3,10 @@
         "args": 0,
         "desc": "A debugging command to see if the bot is functional.",
         "alias": ["ping", "pi"]
+    },
+    "help": {
+        "args": 0,
+        "desc": "Displays this message.",
+        "alias": ["help", "h"]
     }
 }

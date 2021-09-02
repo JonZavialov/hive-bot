@@ -1,6 +1,7 @@
 const getJsonContent = require('./getJsonContent')
 
 const ping = require('../commands/ping')
+const help = require('../commands/help')
 
 async function parseCommand(msg, prefix){
     const commands = await getJsonContent(__dirname.substring(0, __dirname.length-9) + "commands\\commands.json")
